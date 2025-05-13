@@ -6,11 +6,11 @@ Price optimization is a strategic approach that uses data collection on sales, c
 
 To analyze Price Optimization, we need a dataset based on sales, costs, competition, and market trends. Here's a overview of a dataset which contains features like:
 
-Fiscal_Week_Id: The fiscal week identifier.
-Store_Id: The store identifier.
-Item_Id: The item identifier.
-Price: The price of the item at our store.
-Item_Quantity: The quantity of the item sold.
-Sales_Amount_No_Discount: Sales amount without discount.
-Sales_Amount: Sales amount after discounts.
-Competition_Price: The price of the item at a competing store.
+Fiscal_Week_Id: The fiscal week identifier  
+Store_Id: The store identifier  
+Item_Id: The item identifier  
+Price: The price of the item at our store  
+Item_Quantity: The quantity of the item sold  
+Sales_Amount_No_Discount: Sales amount without discount  
+Sales_Amount: Sales amount after discounts  
+Competition_Price: The price of the item at a competing store  
